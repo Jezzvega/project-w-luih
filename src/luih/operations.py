@@ -2,7 +2,7 @@ from time import sleep
 from luih.utils import get_cwd
 
 
-def _add_two_numbers(a: int, b: int) -> int:
+def a_add_two_numbers(a: int, b: int) -> int:
     sleep(5)
     return a + b
 
