@@ -2,6 +2,13 @@
 
 
 
+## v0.2.0 (2023-12-09)
+
+### Feature
+
+* feat: blabla \n\nBREAKING CHANGE: ahora si cambio ([`677560e`](https://github.com/Jezzvega/project-w-luih/commit/677560ec6cc1bf69563ebaba76957cde1bdc1590))
+
+
 ## v0.1.0 (2023-12-09)
 
 ### Feature
