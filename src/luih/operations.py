@@ -7,7 +7,7 @@ def a_add_two_numbers(a: int, b: int) -> int:
     return a + b
 
 
-def _multiply_two_numbers(a: int, b: int) -> int:
+def a_multiply_two_numbers(a: int, b: int) -> int:
     get_cwd()
     return a * b
 
