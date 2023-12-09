@@ -2,6 +2,13 @@
 
 
 
+## v0.1.0 (2023-12-09)
+
+### Feature
+
+* feat: New functions\nBREAKING CHANGE: ahora todo cambio, le to ca a ella ([`dafd7bd`](https://github.com/Jezzvega/project-w-luih/commit/dafd7bdc2ec22667a1b905c1e1a0a6bc921ac996))
+
+
 ## v0.0.1 (2023-12-09)
 
 ### Fix

@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "luih"
-version = "0.0.1"
+version = "0.1.0"
 description = "un paquete de prueba con luih"
 authors = ["Emilio Vega <jesusvegamoreno@gmail.com>"]
 readme = "README.md"
