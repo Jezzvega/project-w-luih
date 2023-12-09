@@ -2,6 +2,17 @@
 
 
 
+## v0.0.1 (2023-12-09)
+
+### Fix
+
+* fix: actions ([`2911192`](https://github.com/Jezzvega/project-w-luih/commit/2911192da65870c6dc9a314caebb97e66aabe32c))
+
+### Unknown
+
+* Merge branch &#39;main&#39; of https://github.com/Jezzvega/project-w-luih ([`d596831`](https://github.com/Jezzvega/project-w-luih/commit/d59683196b3774eeae7a097c2f180dbad8bb0b37))
+
+
 ## v0.0.0 (2023-12-09)
 
 ### Chore
