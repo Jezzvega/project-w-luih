@@ -2,6 +2,15 @@
 
 
 
+## v1.0.0 (2023-12-09)
+
+### Breaking
+
+* feat: a...
+
+BREAKING CHANGE: la cosa se puso fea ([`b01aa23`](https://github.com/Jezzvega/project-w-luih/commit/b01aa23cd3c4f736615aad4a28df04080b2b37e9))
+
+
 ## v0.2.0 (2023-12-09)
 
 ### Feature
